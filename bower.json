@@ -1,6 +1,7 @@
 {
   "name": "flag-icon-css",
   "main": "css/flag-icon.min.css",
+  "version": "1.4.0",
   "ignore": [
       "**/.*",
       "assets",
